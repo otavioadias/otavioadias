@@ -10,8 +10,6 @@
 <img align="center" alt="Otavio-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/938669134890278937/938669235394183168/desconhecido.gif?width=390&height=390">
 </div>
 
- ##
-
 <div align="center">
   <a href="https://github.com/otavioadias">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=otavioadias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

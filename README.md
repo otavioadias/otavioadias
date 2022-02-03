@@ -1,6 +1,6 @@
 <div h1 align="center">
 
-### Oi, tudo bem? Eu sou o Otávio 👋
+### Oi, tudo bem? Eu sou o Otávio Azevedo 👋
 </h1>
 </div>
 

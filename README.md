@@ -24,5 +24,5 @@
 ##
 
 <div align="center">
-<img align="center" alt="Otavio-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004359852103053312/20220803_090159_0000-removebg-preview.png">
+<img align="center" alt="Otavio-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004361919106388008/20220803_091446_0000-removebg-preview.png">
 </div>

@@ -3,10 +3,6 @@
 ### Oi, tudo bem? Eu sou o Otávio Azevedo! 👋
 </h1>
 </div>
-
-<div align="center">
-<img align="center" alt="Otavio-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/938669134890278937/938669235394183168/desconhecido.gif?width=390&height=390">
-</div>
   
 <div align="center">
   <a href="https://www.linkedin.com/in/otavioazevedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -23,6 +19,10 @@
 
 ##
 
-<div align="center">
-<img align="center" alt="Otavio-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004361919106388008/20220803_091446_0000-removebg-preview.png">
+<div align="left">
+<img align="left" alt="Otavio-name" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004361919106388008/20220803_091446_0000-removebg-preview.png">
+</div>
+
+<div align="right">
+<img align="right" alt="Otavio" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004365763731263538/AREmoji_20220803_092945_26773.png">
 </div>

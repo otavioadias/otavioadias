@@ -56,7 +56,7 @@
 
 
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=otavioadias&theme=dracula)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=otavioadias&radfasf&arasfda&theme=dracula)
  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=otavioadias&layout=compact&langs_count=7&theme=dracula)
 
 

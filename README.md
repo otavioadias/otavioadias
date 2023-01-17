@@ -1,10 +1,12 @@
 <h1 align="center">Olá 👋, Eu sou o Otávio Azevedo!</h1>
-<h3>Desenvolvedor Full-Stack e Estudante de Desenvolvimento Web Full-Stack</h3>
+<h3>Desenvolvedor Full-Stack</h3>
 <img align="right" alt="Otavio" height="240" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004497174803005560/AREmoji_20220803_181000_2246_preview_rev_1.png">
 
 - 🔭 Estudante de Desenvolvimento Web Full-Stack na **Trybe**
 
-- 🌱 Atualmente estou aprendendo **Desenvolvimento Back-end**
+- 🌱 Atualmente estou aprendendo:
+   - **Ciência da Computação**
+   - **Python**
 
 ##
 

@@ -1,5 +1,15 @@
-<h1 align="center">Olá 👋, Eu sou o Otávio Azevedo!</h1>
-<h3>Desenvolvedor Full-Stack</h3>
+<div align="left">
+<img align="left" alt="Otavio-name" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004361919106388008/20220803_091446_0000-removebg-preview.png">
+</div>
+
+<div align="right">
+<img align="right" alt="Otavio" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004365763731263538/AREmoji_20220803_092945_26773.png">
+</div>
+
+## 
+
+<h3>Desenvolvedor Full-Stack na beFront</h3>
+
 <img align="right" alt="Otavio" height="240" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004497174803005560/AREmoji_20220803_181000_2246_preview_rev_1.png">
 
 - 🔭 Estudante de Desenvolvimento Web Full-Stack na **Trybe**
@@ -8,6 +18,7 @@
    - **Ciência da Computação**
    - **Python**
 
+- :mailbox: E-mail para contato: otavioad1997@gmail.com
 ##
 
 <h3 align="left">Minhas redes:</h3>
@@ -58,19 +69,6 @@
 
 ##
 
-
-
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=otavioadias&radfasf&arasfda&theme=dracula)
  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=otavioadias&layout=compact&langs_count=7&theme=dracula)
-
-
-##
-
-<div align="left">
-<img align="left" alt="Otavio-name" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004361919106388008/20220803_091446_0000-removebg-preview.png">
-</div>
-
-<div align="right">
-<img align="right" alt="Otavio" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004365763731263538/AREmoji_20220803_092945_26773.png">
-</div>
 

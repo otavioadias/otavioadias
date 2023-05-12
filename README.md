@@ -18,11 +18,8 @@
 
 <img align="right" alt="Otavio" height="240" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004497174803005560/AREmoji_20220803_181000_2246_preview_rev_1.png">
 
-- 🔭 Estudante de Desenvolvimento Web Full-Stack na **Trybe**
-
 - 🌱 Atualmente estou aprendendo:
-   - **Ciência da Computação**
-   - **Python**
+   - **Java**
 
 - :mailbox: E-mail para contato: otavioad1997@gmail.com
 ##
@@ -53,10 +50,11 @@
 <h3 align="left"> Back-End </h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" heigth="50" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" heigth="90" width="100"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" heigth="50" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" heigth="90" width="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg" heigth="90" width="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" heigth="70" width="80"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" heigth="70" width="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" heigth="70" width="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" heigth="70" width="80" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" heigth="70" width="80" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" heigth="50" width="70"  />
 

@@ -1,10 +1,8 @@
 <div>
 <div align="left">
-<img align="left" alt="Otavio-name" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004361919106388008/20220803_091446_0000-removebg-preview.png">
 </div>
 
 <div align="right">
-<img align="right" alt="Otavio" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004365763731263538/AREmoji_20220803_092945_26773.png">
 </div>
 </div>
 
@@ -14,9 +12,7 @@
 
 ##
 
-<h3>Desenvolvedor Full-Stack na beFront</h3>
-
-<img align="right" alt="Otavio" height="240" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938669134890278937/1004497174803005560/AREmoji_20220803_181000_2246_preview_rev_1.png">
+<h3>Desenvolvedor Back-end na beFront</h3>
 
 - 🌱 Atualmente estou aprendendo:
    - **Java**

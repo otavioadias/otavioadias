@@ -12,7 +12,7 @@
 
 ##
 
-<h3>Desenvolvedor Back-end na beFront</h3>
+<h3>Desenvolvedor Back-end</h3>
 
 - 🌱 Atualmente estou aprendendo:
    - **Java**
